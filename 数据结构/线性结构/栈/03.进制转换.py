@@ -1,5 +1,5 @@
 # 十进制转二进制  利用栈的反转特性
-def ten_turn_two(n: int) -> str:
+def ten_turn_two(n: int) -> int | str:
     stack = []
     if n == 0:
         return 0
