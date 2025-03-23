@@ -112,7 +112,7 @@ print(peach_9)
 peach_8 = peach(8)
 print(peach_8)
 
-# # 河内塔模型 递归
+# # 汉诺塔模型 递归
 def hanoi_tower(num, a, b, c):
     """
     功能：完成将num个盘子从a盘转移到c盘，大盘不能在小盘上边，小盘只能在上边。
