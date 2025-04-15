@@ -7,11 +7,11 @@ ctrl + h 可以查看继承关系
 
 python 基础： 黑马 韩顺平教育 “我亦无他，唯手熟尔。”
 
-推送时若是报错 可以尝试 使用 git config --global http.sslVerify false
+github 推送时若是报错 可以尝试 使用 git config --global http.sslVerify false
 来将 ssl 验证禁用
 或者 使用 git config --global http.sslVersion TLSv1.3 来进行 重新验证
 
-
+gitlab 推送时 如果出现报错 首先检查令牌是否过期或失效
 
 
 
